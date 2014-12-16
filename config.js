@@ -17,4 +17,7 @@ module.exports = {
     nick: 'slackbot',
     channel: '#mychan'
   },
+  channels: [
+      {channel: "#ircchannel", echoChannel: "#slackchannel"},
+  ]
 };
