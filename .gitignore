@@ -14,5 +14,6 @@ results
 build
 .grunt
 config.js
+userMap.json
 
 node_modules
